@@ -1,0 +1,27 @@
+name: Karthika Namboothiri
+bio: I am a journalist. I like making illustrations of your pet.
+links:
+  - target: mailto: k2karthika96@gmail.com
+    text: 📧 email
+  - target: https://kaarnam.com
+    text: 🏠 homepage
+  - target: https://twitter.com/karthika96
+    text: '@karthika96'
+pages:
+  - type: gdoc
+    title: this is the first project
+    slug: first-project
+    url: https://docs.google.com/document/d/126LLa_EKG_nBbmA53HCG3pMVbjKBRnQWJWDL9FUSmHo/edit?usp=sharing
+  - type: gdoc
+    title: this is the second project
+    slug: second-project
+    url: https://docs.google.com/document/d/1-ehYb4V3gtrS7LTlfqr27cZum1qGwX2KwczYLa1w-2Y/edit?usp=sharing
+  - type: html
+    title: this is the third project
+    slug: third-project
+    filepath: content/sample-page.html
+  - type: html
+    title: this is the fourth project
+    template: html_bootstrap
+    slug: yet-another-project
+    filepath: content/sample-page.html
