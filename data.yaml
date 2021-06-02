@@ -1,27 +1,28 @@
 name: Karthika Namboothiri
-bio: I am a journalist. I like making illustrations of your pet.
+bio: Data journalist.
 links:
-  - target: mailto: k2karthika96@gmail.com
-    text: 📧 email
+  - target: mailto:k2karthika96@gmail.com
+    text: Email
   - target: https://kaarnam.com
-    text: 🏠 homepage
+    text: Homepage
   - target: https://twitter.com/karthika96
     text: '@karthika96'
 pages:
   - type: gdoc
-    title: this is the first project
+    title: In the most polluted county in the United States, not everyone wants to fix the problem
+    subtext: Fairbanks, combined with adjacent North Star, tops the list of the U.S. Environment Protection Agency (EPA)’s most polluted counties in the United States.
     slug: first-project
-    url: https://docs.google.com/document/d/126LLa_EKG_nBbmA53HCG3pMVbjKBRnQWJWDL9FUSmHo/edit?usp=sharing
+    url: https://docs.google.com/document/d/1QdmouFVGuZJWjEJ4loUncvEjwl2whZ8v-NM-LwPIS1c/edit?usp=sharing
   - type: gdoc
-    title: this is the second project
-    slug: second-project
-    url: https://docs.google.com/document/d/1-ehYb4V3gtrS7LTlfqr27cZum1qGwX2KwczYLa1w-2Y/edit?usp=sharing
+    title: "First a trade war, then a pandemic: Cotton farmers continue to bear the brunt"
+    slug: Texas-cotton
+    url: https://docs.google.com/document/d/1qa5dYl7hJtleL-oNkwsWfnZbYJX0tSifeN8C-dVVlYE/edit?usp=sharing
   - type: html
     title: this is the third project
     slug: third-project
     filepath: content/sample-page.html
   - type: html
     title: this is the fourth project
-    template: html_bootstrap
+    # template: html_bootstrap
     slug: yet-another-project
     filepath: content/sample-page.html
